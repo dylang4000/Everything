@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+svg{
+    border: 1px solid black;
+}
+rect:active{
+    animation-name: march;
+    animation-duration: 5s;
+    animation-iteration-count:infinite ;
+    animation-timing-function: linear;
+    
+}
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+@keyframes march {
+    0%{
+        border-width:1px;
+        fill:none;
+        stroke-dashoffset: 0%;
+    }
+    99%{
+         fill:red;
+        stroke-dasharray:9;
+    }
+    100%{
+       
+        stroke-dashoffset: 100%;
+    }
+}
