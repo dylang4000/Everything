@@ -1,0 +1,38 @@
+
+
+
+•READ FORENSICS FIRST
+
+•fix users 
+
+•turn off ftp maybe(under internet information services)
+
+•delete unauthorized files (search specific ones by using *.mp3)
+
+•remove unauthorized apps
+
+•update all apps that need to be updated
+
+
+
+**GPO STUFF COULD BE INCORRECT**
+
+•enforce password history:  5
+
+•maximum password age:  30-90 days
+
+•minimum password age: 5 days
+
+•minimum password length: 8 characters
+
+•password must meet complexity requirements: yes
+
+•Store password using reversible encryption for all users in the domain: disable
+
+•Number of times a password can be reused: 3
+
+**FOR ADMIN ACCOUNTS**
+
+•Enforce password history: 9 passwords
+
+•Maximum password age: 14 days
