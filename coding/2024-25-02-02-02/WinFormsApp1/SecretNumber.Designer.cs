@@ -28,55 +28,61 @@
         /// </summary>
         private void InitializeComponent()
         {
-            textBox1 = new TextBox();
+            Answerbox = new TextBox();
             secretNumLabel = new Label();
-            button1 = new Button();
-            listBox1 = new ListBox();
+            SubmitButton = new Button();
+            Resultsbox = new ListBox();
             SuspendLayout();
             // 
-            // textBox1
+            // Answerbox
             // 
-            textBox1.Location = new Point(129, 178);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(150, 31);
-            textBox1.TabIndex = 0;
+            Answerbox.Location = new Point(90, 107);
+            Answerbox.Margin = new Padding(2);
+            Answerbox.Name = "Answerbox";
+            Answerbox.Size = new Size(106, 23);
+            Answerbox.TabIndex = 0;
             // 
             // secretNumLabel
             // 
             secretNumLabel.AutoSize = true;
-            secretNumLabel.Location = new Point(101, 134);
+            secretNumLabel.Location = new Point(71, 80);
+            secretNumLabel.Margin = new Padding(2, 0, 2, 0);
             secretNumLabel.Name = "secretNumLabel";
-            secretNumLabel.Size = new Size(207, 25);
+            secretNumLabel.Size = new Size(137, 15);
             secretNumLabel.TabIndex = 1;
             secretNumLabel.Text = "Guess the secret number";
             // 
-            // button1
+            // SubmitButton
             // 
-            button1.Location = new Point(143, 231);
-            button1.Name = "button1";
-            button1.Size = new Size(112, 34);
-            button1.TabIndex = 2;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
+            SubmitButton.Location = new Point(100, 139);
+            SubmitButton.Margin = new Padding(2);
+            SubmitButton.Name = "SubmitButton";
+            SubmitButton.Size = new Size(78, 20);
+            SubmitButton.TabIndex = 2;
+            SubmitButton.Text = "Submit";
+            SubmitButton.UseVisualStyleBackColor = true;
+            SubmitButton.Click += SubmitButton_Click;
             // 
-            // listBox1
+            // Resultsbox
             // 
-            listBox1.FormattingEnabled = true;
-            listBox1.ItemHeight = 25;
-            listBox1.Location = new Point(143, 287);
-            listBox1.Name = "listBox1";
-            listBox1.Size = new Size(117, 29);
-            listBox1.TabIndex = 3;
+            Resultsbox.FormattingEnabled = true;
+            Resultsbox.ItemHeight = 15;
+            Resultsbox.Location = new Point(100, 172);
+            Resultsbox.Margin = new Padding(2);
+            Resultsbox.Name = "Resultsbox";
+            Resultsbox.Size = new Size(83, 19);
+            Resultsbox.TabIndex = 3;
             // 
             // SecretNumberForm
             // 
-            AutoScaleDimensions = new SizeF(10F, 25F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(409, 450);
-            Controls.Add(listBox1);
-            Controls.Add(button1);
+            ClientSize = new Size(286, 270);
+            Controls.Add(Resultsbox);
+            Controls.Add(SubmitButton);
             Controls.Add(secretNumLabel);
-            Controls.Add(textBox1);
+            Controls.Add(Answerbox);
+            Margin = new Padding(2);
             Name = "SecretNumberForm";
             StartPosition = FormStartPosition.CenterParent;
             Text = "SecretNumber";
@@ -86,9 +92,9 @@
 
         #endregion
 
-        private TextBox textBox1;
+        private TextBox Answerbox;
         private Label secretNumLabel;
-        private Button button1;
-        private ListBox listBox1;
+        private Button SubmitButton;
+        private ListBox Resultsbox;
     }
 }

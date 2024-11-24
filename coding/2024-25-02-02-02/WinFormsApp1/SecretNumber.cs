@@ -6,5 +6,10 @@
         {
             InitializeComponent();
         }
+
+        private void SubmitButton_Click(object sender, EventArgs e)
+        {
+           string Input0 = Answerbox.Text;
+        }
     }
 }

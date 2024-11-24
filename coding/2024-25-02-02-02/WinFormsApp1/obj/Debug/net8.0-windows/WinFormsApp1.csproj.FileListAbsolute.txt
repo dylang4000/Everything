@@ -39,3 +39,24 @@ C:\Users\Dylan Davis\Desktop\coding 2\coding-2\2024-25-02-02-02\WinFormsApp1\obj
 C:\Users\Dylan Davis\Desktop\coding 2\coding-2\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 C:\Users\Dylan Davis\Desktop\coding 2\coding-2\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 C:\Users\Dylan Davis\Desktop\coding 2\coding-2\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\_2024_25_02_02_02.DigitCounterForm.resources
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\_2024_25_02_02_02.EvenOddForm.resources
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\_2024_25_02_02_02.FizzBuzzForm.resources
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\_2024_25_02_02_02.SecretNumberForm.resources
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Strooberr\source\repos\allofit\coding\2024-25-02-02-02\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
