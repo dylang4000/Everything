@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+body{
+    background-image: url("homer.jpg");
+    background-size: cover;
+    background-color: red;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+
+}
+path{
+    fill:transparent;
+    stroke:rgb(243, 243, 243);
+    stroke-width: 1.2px;
+    stroke-dasharray: 7200;
+    stroke-dashoffset: 7200;
+ animation-name: test;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: forward;
+}
+
+@keyframes test {
+    0%{
+        stroke-dashoffset: 7200;
+    }
+    100%{
+        fill:rgba(81, 6, 255, 0.887);
+        stroke-dashoffset:0;
+    }
+}
